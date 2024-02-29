@@ -2,6 +2,9 @@
 gems:
   - jemoji
   - jekyll-paginate
+  - webrick
+  - htmlcompressor
+  - htmlbeautifier
 
 # Site settings
 title: "Alejandro Aguilar"
@@ -61,3 +64,6 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+markdown:
+  enabled: true
