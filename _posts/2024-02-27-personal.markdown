@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Personal"
+date:   2024-02-27 02:22:41
+categories: jekyll update
+tags: featured
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+---
+Hola, mi nombre es Enrique Alejandro Aguilar, un joven de 21 años apasionado por la ingeniería en computación y estudiante del octavo semestre en la Facultad de Ingeniería de la UNAM. Mi trayectoria académica y mi amor por la tecnología me han llevado a explorar los intrincados mundos de la programación y la computación. Sin embargo, fuera del ámbito académico, mis intereses se diversifican. Me encanta sumergirme en las melodías de la música, perderme en la narrativa de los videojuegos y desafiar mi mente con nuevos proyectos de programación. Estoy comprometido con mi crecimiento personal y profesional, siempre buscando aprender y explorar nuevas oportunidades en el vasto campo de la tecnología y el entretenimiento.
