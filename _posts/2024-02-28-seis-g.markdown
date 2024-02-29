@@ -6,34 +6,40 @@ categories: jekyll update
 tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+# Introducción
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+La tecnología 6G es la sexta generación de tecnologías de comunicaciones inalámbricas que soportan redes de datos celulares. Será el sucesor de la 5G y será significativamente más rápida, a velocidades de hasta 1 Tbps.
 
-Jekyll also offers powerful support for code snippets:
+Tecnologías clave
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+- Ondas de terahercios: Ofrecen un ancho de banda mucho mayor que las frecuencias utilizadas en 5G, lo que permite velocidades de datos mucho más altas.
+- Redes definidas por software (SDN): Permiten una mayor flexibilidad y escalabilidad, así como una mejor gestión de los recursos de la red.
+- Inteligencia artificial (IA): Se utiliza para optimizar el rendimiento de la red, predecir la demanda de ancho de banda y automatizar tareas.
+- Computación de borde: Acerca la capacidad de procesamiento y almacenamiento de datos a los dispositivos finales.
+- Internet de las cosas (IoT): Permitirá la conexión de miles de millones de dispositivos IoT a la red.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Beneficios
 
-{% highlight js %}
+- Velocidades de datos mucho más altas: Hasta 1 Tbps, 100 veces más rápido que 5G.
+- Menor latencia: Tiempo de respuesta casi instantáneo.
+- Mayor capacidad: Conectará a miles de millones de dispositivos.
+- Mayor flexibilidad: Permite una mejor adaptación a las necesidades de los usuarios.
 
-<footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
+Aplicaciones
+
+- Descarga de películas en alta definición en segundos.
+- Realidad virtual y aumentada inmersiva y sin latencia.
+- Cirugía robótica a distancia.
+- Coches autónomos que se comunican entre sí y con la infraestructura.
+- Ciudades inteligentes que gestionan el tráfico, la energía y la iluminación de forma eficiente.
+
+Desafíos
+
+- Desarrollo de nuevos dispositivos y tecnologías.
+- Regulación del espectro radioeléctrico.
+- Seguridad de la red.
+
+Futuro del 6G
+El 6G tiene el potencial de cambiar el mundo de muchas maneras. Es una tecnología que vale la pena seguir de cerca en los próximos años.
 
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
