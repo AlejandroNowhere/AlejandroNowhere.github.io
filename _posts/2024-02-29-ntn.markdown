@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NTN"
-date:   2024-02-29 17:22:41
+date:   2024-02-29 02:22:41
 categories: jekyll update
 tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
@@ -43,5 +43,5 @@ Las redes NTN se pueden utilizar para una variedad de aplicaciones, incluyendo:
 - Internet de las cosas (IoT): Conectar dispositivos IoT en áreas donde no hay cobertura terrestre.
 - Respuesta a emergencias: Proporcionar comunicaciones en caso de desastres naturales u otras emergencias.
 - Educación: Brindar acceso a la educación en zonas remotas.
-- Telemedicina: Ofrecer atención médica a distancia a pacientes en zonas rurales.
+Telemedicina: Ofrecer atención médica a distancia a pacientes en zonas rurales.
 
