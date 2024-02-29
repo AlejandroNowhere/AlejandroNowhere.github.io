@@ -1,9 +1,47 @@
 ---
 layout: post
-title:  "Personal"
+title:  "CV"
 date:   2024-02-27 02:22:41
 categories: jekyll update
 tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
-Hola, mi nombre es Enrique Alejandro Aguilar, un joven de 21 años apasionado por la ingeniería en computación y estudiante del octavo semestre en la Facultad de Ingeniería de la UNAM. Mi trayectoria académica y mi amor por la tecnología me han llevado a explorar los intrincados mundos de la programación y la computación. Sin embargo, fuera del ámbito académico, mis intereses se diversifican. Me encanta sumergirme en las melodías de la música, perderme en la narrativa de los videojuegos y desafiar mi mente con nuevos proyectos de programación. Estoy comprometido con mi crecimiento personal y profesional, siempre buscando aprender y explorar nuevas oportunidades en el vasto campo de la tecnología y el entretenimiento.
+# Enrique Alejandro Aguilar Ramos
+
+Información de contacto:
+- Teléfono: 5581051038 
+- Correo electrónico: enriqueaar89@gmail.com 
+
+Perfil: 
+
+Estudiante de octavo semestre de Ingeniería en Computación en la Facultad de Ingeniería de la UNAM con experiencia previa en Inteligencia Artificial. Interesado por la aplicación de la tecnología para abordar desafíos educativos y la mejora de procesos.
+
+Formación Académica:
+
+- Bachillerato en Escuela Nacional Preparatoria 9 Pedro de Alba
+- Licenciatura en Ingeniería en Computación (Octavo semestre en curso), Facultad de Ingeniería, UNAM
+- Principales áreas de estudio e interés: Programación, Sistemas Inteligentes, Inteligencia Artificial
+
+Experiencia académica relevante:
+
+- Participación dentro del proyecto PAPIME “Desarrollo de Ambiente Digital de Aprendizaje sobre Género. Hacia la transformación digital UNAM” dentro del área técnica. (2023)
+- Participación dentro del proyecto “Inteligencia artificial para la detección de los errores más comunes en la escritura de estudiantes de iniciación universitaria.” Donde se realizaron labores de etiquetación de textos, manejo y análisis de datos (2023)
+- Curso “CS50's Introduction to Programming with Python” por parte de HarvardX CS50P (2023)
+- Participación en el curso “Customer Discovery para la Transferencia Tecnológica” (2023)
+
+Habilidades técnicas:
+- Python (Intermedio)
+- Java (Básico)
+- C (Básico)
+- SQL (Básico)
+- Manejo de la paquetería de Office (Básico)
+- Manejo de Estructuras de datos y Algoritmos
+
+Habilidades adicionales:
+- Comunicación efectiva
+- Trabajo en equipo
+- Gestión del tiempo y organización
+
+Idiomas:
+- Español: Nativo
+- Inglés: 80% (hablado y escrito)
