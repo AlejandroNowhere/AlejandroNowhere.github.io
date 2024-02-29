@@ -98,6 +98,7 @@ GEM
       activesupport (>= 2)
       nokogiri (>= 1.4)
     htmlbeautifier (1.4.3)
+    htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
@@ -264,6 +265,7 @@ GEM
       unf_ext
     unf_ext (0.0.9.1)
     unicode-display_width (1.8.0)
+    unicode_utils (1.4.0)
     uri (0.13.0)
     webrick (1.8.1)
 
@@ -274,7 +276,9 @@ DEPENDENCIES
   bourbon
   github-pages
   htmlbeautifier
+  htmlcompressor
   jemoji
+  unicode_utils
   webrick
 
 BUNDLED WITH
